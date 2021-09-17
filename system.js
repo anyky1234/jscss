@@ -1,7 +1,3 @@
-/*
-** ZanPianCms V9
-** domain:kankongjian.com kuaijuqing.com
-*/ 
 var zanpiancms = {
     //右侧滑块
     'tool': function () {
